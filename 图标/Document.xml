@@ -1,0 +1,26 @@
+﻿<XtraSerializer version="15.2.5.0">
+  <Items>
+    <Item1 Size="800,600" ItemKind="DiagramRoot" Theme="Office" PageSize="800,600" CanvasSizeMode="AutoSize" SelectedStencils="">
+      <Children>
+        <Item1 Position="310,10" Size="130,30" Background="#FF99B4D1" Shape="BasicShapes.Rectangle" Content="总经办" ItemKind="DiagramShape" />
+        <Item2 Position="80,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item3 Position="190,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="技术部" ItemKind="DiagramShape" />
+        <Item4 Position="290,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="研发部" ItemKind="DiagramShape" />
+        <Item5 Position="370,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="物流部" ItemKind="DiagramShape" />
+        <Item6 Position="470,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="质监部" ItemKind="DiagramShape" />
+        <Item7 Position="540,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="财务部" ItemKind="DiagramShape" />
+        <Item8 Position="620,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="人力资源部" ItemKind="DiagramShape" />
+        <Item9 Position="680,130" Size="30,100" Shape="BasicShapes.Rectangle" Content="行政部" ItemKind="DiagramShape" />
+        <Item10 Position="200,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item11 Position="280,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item12 Position="350,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item13 Position="420,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item14 Position="490,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item15 Position="560,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item16 Position="140,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item17 Position="620,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+        <Item18 Position="80,250" Size="30,100" Shape="BasicShapes.Rectangle" Content="市场部" ItemKind="DiagramShape" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>
